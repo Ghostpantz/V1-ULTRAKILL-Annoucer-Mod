@@ -1,8 +1,8 @@
---THIS IS A MOD FOR THE ANNOUCER MOD-- BEPINEX
+<b>--THIS IS A MOD FOR THE ANNOUCER MOD--<b> BEPINEX
 
 I added files to the annoucer mod which the link for the mod is https://www.nexusmods.com/ultrakill/mods/54
 
-BIG DISCLAMER:
+<b>BIG DISCLAMER:<b>
 The dll and how it works belongs to this mod.
 
 
